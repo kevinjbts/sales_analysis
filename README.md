@@ -39,7 +39,7 @@ Promotional activity also doesn't affect sales volume as it is evenly distribute
 
 However, region affects sales performance, with 3 regions leading total sales volume: 
 
-![image](/images/regions.png)
+![image](/images/regions2.png)
 
 Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
 
