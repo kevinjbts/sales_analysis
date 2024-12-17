@@ -29,21 +29,21 @@ Lastly, the insights able to be generated are limited by the features and curren
 ### Analyzing Sales Volume by Categories
 Seasonality doesn't play a factor as sales volume is relatively even across seasons.
 
-![image](/images/seasons)
+![image](/images/seasons.png)
 
 Promotional activity also doesn't affect sales volume as it is evenly distributed: 
 
-![image](/images/promotions)
+![image](/images/promotions.png)
 
 However, region affects sales performance, with 3 regions leading total sales volume: 
 
-![image](/images/regions)
+![image](/images/regions.png)
 
 Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
 
 Additionally, the top 10 states all have above 30k in sales revenue, while not having outliers in terms of total number of customers, representing best advertising targets for future tests. 
 
-![image](/images/top10)
+![image](/images/top10.png)
 
 # Recommendations
 
