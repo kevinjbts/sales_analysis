@@ -18,6 +18,8 @@ Lastly, the insights able to be generated are limited by the features and curren
 
 # Insights Deep Dive
 
+View the full Python EDA in Jupyter Notebook ![here:](Sales_Analysis.ipynb)
+
 ### Key Performance Indicators: 
 -Mean purchase amount was $2,500
 -Minimum purchase amount: $9
