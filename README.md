@@ -18,24 +18,24 @@ Lastly, the insights able to be generated are limited by the features and curren
 
 # Insights Deep Dive
 
-View the full Python EDA in Jupyter Notebook ![here:](Sales_Analysis.ipynb)
+View the full Python EDA in Jupyter Notebook [here:](Sales_Analysis.ipynb)
 
 ### Key Performance Indicators: 
--Mean purchase amount was $2,500
--Minimum purchase amount: $9
--Maximum purchase amount: $4,992
--20th percentile: $1,082
--80th percentile: $3,950
--Total Sales: $1,250,143
+* Mean purchase amount was $2,500
+* Minimum purchase amount: $9
+* Maximum purchase amount: $4,992
+* 20th percentile: $1,082
+* 80th percentile: $3,950
+* Total Sales: $1,250,143
 
 ### Analyzing Sales Volume by Categories
 Seasonality doesn't play a factor as sales volume is relatively even across seasons.
 
-![image](/images/seasons.png)
+![image](/images/seasons2.png)
 
 Promotional activity also doesn't affect sales volume as it is evenly distributed: 
 
-![image](/images/promotions.png)
+![image](/images/promotions2.png)
 
 However, region affects sales performance, with 3 regions leading total sales volume: 
 
@@ -51,6 +51,6 @@ Additionally, the top 10 states all have above 30k in sales revenue, while not h
 
 To maximize return on advertising spend, Region & State are the best opportunities to focus future advertising spend on the best performers. 
 
--The Top 10 States from this analysis each drove $30k in sales, and improved advertising in the states should be tested for higher ROI than other regions. 
--The current dataset does not include data on repeat customers, demographic data, or sales channel - all of which could be additional factors to investigate for additional marketing optimization. 
--Testing on our initial assumptions can be done in parallel with additional data collection. The recommendation to NEWCO would be to allocate a higher percentage of advertising spend towards the top 10 states, while also running promotional campaigns customer wide for surveys to collect additional data. This survey data can also be leveraged to guide brand marketing activities (outside of performance marketing). 
+The Top 10 States from this analysis each drove $30k in sales, and improved advertising in the states should be tested for higher ROI than other regions. 
++The current dataset does not include data on repeat customers, demographic data, or sales channel - all of which could be additional factors to investigate for additional marketing optimization. 
++Testing on our initial assumptions can be done in parallel with additional data collection. The recommendation to NEWCO would be to allocate a higher percentage of advertising spend towards the top 10 states, while also running promotional campaigns customer wide for surveys to collect additional data. This survey data can also be leveraged to guide brand marketing activities (outside of performance marketing). 
