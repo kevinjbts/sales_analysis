@@ -4,7 +4,7 @@
 
 For this project, I leveraged python programming to generate a random set of customer information leveraging a Common Public Names dataset, and random sales data for these customers. 
 
-![Visualization of Key Insights in Tableau](/GeoMap_Sales_analysis.png) 
+![Visualization of Key Insights in Tableau](/GeoMap_SalesAnalysis.png) 
 
 Please see full Tableau visualization [here](https://public.tableau.com/app/profile/kevin.bates3947/viz/SampleCustomerAnalysis_17175511318920/Dashboard)
 
