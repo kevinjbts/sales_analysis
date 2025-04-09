@@ -2,7 +2,7 @@
 
 This project seeks to leverage Exploratory Data Analysis including visualization, feature analysis, and basic aggregations. As a small company, NEWCO is looking for where best to allocate future marketing dollars to see overindexed return on advertising spend. Analyzing the 12-month sales data (synthetic generated data) provides a solution for guiding future marketing tests towards this end. In addition to Python EDA, Tableau has been utilized to view location & customer data for Sales Representatives to contact, and/or create custom lists for promotion geared towards new sales.  
 
-![Visualization of Key Insights in Tableau](/images/GeoMap_SalesAnalysis.png) 
+![Image](https://github.com/user-attachments/assets/f908a16f-2eef-4886-8384-ad362e61f64d) 
 
 See the full Tableau visualization [here](https://public.tableau.com/app/profile/kevin.bates3947/viz/SampleCustomerAnalysis_17175511318920/Dashboard)
 
@@ -31,21 +31,22 @@ View the full Python EDA in Jupyter Notebook [here:](Sales_Analysis.ipynb)
 ### Analyzing Sales Volume by Categories
 Seasonality doesn't play a factor as sales volume is relatively even across seasons.
 
-![image](/images/seasons2.png)
+![Image](https://github.com/user-attachments/assets/f6b1083a-f6d7-49dd-b398-250d73ccaac8)
+
 
 Promotional activity also doesn't affect sales volume as it is evenly distributed: 
 
-![image](/images/promotions2.png)
+![Image](https://github.com/user-attachments/assets/3ea21084-6cb3-401a-9734-b34ce486341c)
 
 However, region affects sales performance, with 3 regions leading total sales volume: 
 
-![image](/images/regions2.png)
+![Image](https://github.com/user-attachments/assets/83e8085d-74d8-49c0-aa71-9f8d9a6ae9c3)
 
 Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
 
 Additionally, the top 10 states all have above 30k in sales revenue, while not having outliers in terms of total number of customers, representing best advertising targets for future tests. 
 
-![image](/images/top10.png)
+![Image](https://github.com/user-attachments/assets/b5f648c8-1339-4bd3-88cb-03dc5eabaddb)
 
 # Recommendations
 
